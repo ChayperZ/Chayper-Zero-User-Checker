@@ -67,9 +67,7 @@ The script uses standard Python libraries like `os`, `sys`, `random`, `time`, an
     ```bash
     # Install the necessary libraries directly:
     pip install requests colorama
-    
-    # OR, if you create a requirements.txt file:
-    # pip install -r requirements.txt
+
     ```
 
 3.  **Run the Tool:**
